@@ -20,5 +20,8 @@
   "homepage": "https://github.com/matheusnuneso/trabalho-conclusao-disciplina#readme",
   "dependencies": {
     "mocha": "^11.7.5"
+  },
+  "devDependencies": {
+    "mochawesome": "^7.1.4"
   }
 }
