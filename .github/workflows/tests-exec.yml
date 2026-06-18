@@ -6,8 +6,8 @@ on:
   push:
 
   schedule:
-    #Roda a cada 30 minutos
-    - cron: '*/30 * * * *'
+    #Roda toda quarta às 22hr
+    - cron: '0 1 * * 4'
 
 
 jobs:
